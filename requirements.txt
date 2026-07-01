@@ -1,0 +1,4 @@
+# No external dependencies required.
+# This project uses only the Python standard library
+# (csv, math, collections, argparse, pathlib)
+# to demonstrate the TF-IDF and Cosine Similarity math from first principles.
